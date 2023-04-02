@@ -1,0 +1,6 @@
+requests
+pysocks
+bcrypt
+python-gnupg
+pyopenssl
+urllib3
